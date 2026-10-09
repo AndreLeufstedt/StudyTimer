@@ -21,4 +21,4 @@ jobs:
       run: make build
 
     - name: Run program
-      run: make prewview
+      run: make preview
