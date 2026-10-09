@@ -4,7 +4,7 @@ A clean, aesthetic focus and Pomodoro timer replica inspired by studiestimer.com
 
 ## Features
 
-- Time Selection: Quick presets (15m, 25m, 45m, 60m, 90m), custom duration inputs, and minute adjustment increments.
+- Time Selection: Quick presets (15m, 25m, 45m, 60m, 90m), custom duration inputs.
 - Visual Countdown: Circular SVG progress ring and large monospace digits.
 - Alarm Audio System: Web Audio API sound synthesis with multiple sound profiles (Crystal Chime, Zen Bell, Digital Alert, Warm Gong) and volume controls.
 - Aesthetic Themes: Switch between multiple visual styles (Cosmic Violet, Mono Dark, Sepia Warm, Deep Ocean, Forest Mist, Sunset Glow).
