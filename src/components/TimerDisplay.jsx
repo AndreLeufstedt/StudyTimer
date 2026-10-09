@@ -33,7 +33,7 @@ export default function TimerDisplay({
       const s = secondsLeft % 60;
 
       setHoursInput(h > 0 ? String(h) : '');
-      setMinutesInput(m > 0 || h > 0 ? String(m) : (s > 0 ? '0' : ''));
+      setMinutesInput(m > 0 || h > 0 ? String(m) : (s > 0 ? '00' : ''));
       setSecondsInput(s > 0 ? String(s) : '');
     }
   }, [secondsLeft, totalSeconds, isRunning]);
