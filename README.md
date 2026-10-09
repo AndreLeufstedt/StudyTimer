@@ -11,7 +11,6 @@ A clean, aesthetic focus and Pomodoro timer replica inspired by studiestimer.com
 - Tab Synchronization: Browser tab title countdown updates in real time.
 - Precise Timing: Timestamp delta calculation to prevent timer drift when tabs are backgrounded.
 - Fullscreen Mode: Distraction-free study view.
-- Zero Emojis: Strictly clean, minimal typography and vector icons.
 
 ## Quick Start
 
